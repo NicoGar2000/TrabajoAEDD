@@ -1,0 +1,16 @@
+Equipo: 'SuperPanchos'
+Tema 1: 38.0%
+Tema 2: 33.0%
+Tema 3: 0.0%
+Tema 4: 0.0%
+Tema 5: 28.0%
+Parcial 1: 48.0%
+Parcial 2: 89.0%
+Equipo: 'SuperPanchos'
+Tema 1: 23.0%
+Tema 2: 16.0%
+Tema 3: 0.0%
+Tema 4: 0.0%
+Tema 5: 14.0%
+Parcial 1: 0.0%
+Parcial 2: 0.0%
